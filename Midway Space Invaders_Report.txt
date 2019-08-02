@@ -1,0 +1,33 @@
+Project Report For "Midway Space Invaders"
+30 Locations
+
+A2,	74LS153,	Pass
+A3,	74LS174,	Pass
+A4,	74LS86,		Pass
+A5,	74LS74,		Pass
+A6,	74LS55,		Pass
+A7,	74LS04,		Pass
+B2,	74LS153,	Pass
+B4,	74LS20,		Pass
+B5,	74LS74,		Pass
+B6,	74LS00,		Pass
+BX,	74LS00,		Pass
+C2,	74LS153,	Pass
+C3,	74LS174,	Fail
+C4,	74LS166,	Fail
+C6,	74LS42,		Pass
+D2,	74LS153,	Pass
+D4,	74LS04,
+D6,	74LS02,
+D7,	74LS174,
+E2,	74LS42,
+E3,	74LS74,
+E4,	74LS04,
+F2,	74LS08,
+F3,	74LS08,
+F4,	74LS157,
+F5,	74LS157,
+F6,	74LS157,
+F7,	74LS157,
+G3,	74LS08,
+H3,	74LS08,

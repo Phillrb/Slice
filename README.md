@@ -1,2 +1,2 @@
 # Slice
- Slice dumps for arcade PCB comparison
+ Slice dumps for arcade PCB comparisons
